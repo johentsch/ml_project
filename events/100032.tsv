@@ -1,0 +1,165 @@
+quarterbeats	duration_qb	mc	mn	mc_onset	mn_onset	event	timesig	staff	voice	duration	scalar	chord_id	Chord/StemDirection	Chord/durationType	Clef/concertClefType	Clef/transposingClefType	Dynamic/offset	Dynamic/offset:x	Dynamic/offset:y	Dynamic/style	Dynamic/subtype	Dynamic/velocity	Rest/durationType
+0	0.0	1	1	0	0	Clef	3/4	1	1	0					PERC	PERC							
+0	0.0	1	1	0	0	Dynamic	3/4	1	1	0							/	3.49135	-6.37035	Default	ff	112	
+0	1.0	1	1	0	0	Chord	3/4	1	1	1/4	1.0	0	up	quarter									
+1	2.0	1	1	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+0	0.0	1	1	0	0	Clef	3/4	2	1	0					PERC	PERC							
+0	0.0	1	1	0	0	Dynamic	3/4	2	1	0							/	3.04138	5.29997	Default	mf	80	
+0	1.0	1	1	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+1	1.0	1	1	1/4	1/4	Chord	3/4	2	1	1/4	1.0	1	up	quarter									
+2	1.0	1	1	1/2	1/2	Chord	3/4	2	1	1/4	1.0	2	up	quarter									
+3	1.0	2	2	0	0	Chord	3/4	1	1	1/4	1.0	3	up	quarter									
+4	2.0	2	2	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+3	1.0	2	2	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+4	1.0	2	2	1/4	1/4	Chord	3/4	2	1	1/4	1.0	4	up	quarter									
+5	1.0	2	2	1/2	1/2	Chord	3/4	2	1	1/4	1.0	5	up	quarter									
+6	1.0	3	3	0	0	Chord	3/4	1	1	1/4	1.0	6	up	quarter									
+7	2.0	3	3	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+6	1.0	3	3	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+7	1.0	3	3	1/4	1/4	Chord	3/4	2	1	1/4	1.0	7	up	quarter									
+8	1.0	3	3	1/2	1/2	Chord	3/4	2	1	1/4	1.0	8	up	quarter									
+9	1.0	4	4	0	0	Chord	3/4	1	1	1/4	1.0	9	up	quarter									
+10	2.0	4	4	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+9	1.0	4	4	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+10	1.0	4	4	1/4	1/4	Chord	3/4	2	1	1/4	1.0	10	up	quarter									
+11	1.0	4	4	1/2	1/2	Chord	3/4	2	1	1/4	1.0	11	up	quarter									
+12	1.0	5	5	0	0	Chord	3/4	1	1	1/4	1.0	12	up	quarter									
+13	2.0	5	5	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+12	1.0	5	5	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+13	1.0	5	5	1/4	1/4	Chord	3/4	2	1	1/4	1.0	13	up	quarter									
+14	1.0	5	5	1/2	1/2	Chord	3/4	2	1	1/4	1.0	14	up	quarter									
+15	1.0	6	6	0	0	Chord	3/4	1	1	1/4	1.0	15	up	quarter									
+16	2.0	6	6	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+15	1.0	6	6	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+16	1.0	6	6	1/4	1/4	Chord	3/4	2	1	1/4	1.0	16	up	quarter									
+17	1.0	6	6	1/2	1/2	Chord	3/4	2	1	1/4	1.0	17	up	quarter									
+18	1.0	7	7	0	0	Chord	3/4	1	1	1/4	1.0	18	up	quarter									
+19	2.0	7	7	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+18	1.0	7	7	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+19	1.0	7	7	1/4	1/4	Chord	3/4	2	1	1/4	1.0	19	up	quarter									
+20	1.0	7	7	1/2	1/2	Chord	3/4	2	1	1/4	1.0	20	up	quarter									
+21	1.0	8	8	0	0	Chord	3/4	1	1	1/4	1.0	21	up	quarter									
+22	2.0	8	8	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+21	1.0	8	8	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+22	1.0	8	8	1/4	1/4	Chord	3/4	2	1	1/4	1.0	22	up	quarter									
+23	1.0	8	8	1/2	1/2	Chord	3/4	2	1	1/4	1.0	23	up	quarter									
+24	1.0	9	9	0	0	Chord	3/4	1	1	1/4	1.0	24	up	quarter									
+25	2.0	9	9	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+24	1.0	9	9	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+25	1.0	9	9	1/4	1/4	Chord	3/4	2	1	1/4	1.0	25	up	quarter									
+26	1.0	9	9	1/2	1/2	Chord	3/4	2	1	1/4	1.0	26	up	quarter									
+27	1.0	10	10	0	0	Chord	3/4	1	1	1/4	1.0	27	up	quarter									
+28	2.0	10	10	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+27	1.0	10	10	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+28	1.0	10	10	1/4	1/4	Chord	3/4	2	1	1/4	1.0	28	up	quarter									
+29	1.0	10	10	1/2	1/2	Chord	3/4	2	1	1/4	1.0	29	up	quarter									
+30	1.0	11	11	0	0	Chord	3/4	1	1	1/4	1.0	30	up	quarter									
+31	2.0	11	11	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+30	1.0	11	11	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+31	1.0	11	11	1/4	1/4	Chord	3/4	2	1	1/4	1.0	31	up	quarter									
+32	1.0	11	11	1/2	1/2	Chord	3/4	2	1	1/4	1.0	32	up	quarter									
+33	1.0	12	12	0	0	Chord	3/4	1	1	1/4	1.0	33	up	quarter									
+34	2.0	12	12	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+33	1.0	12	12	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+34	1.0	12	12	1/4	1/4	Chord	3/4	2	1	1/4	1.0	34	up	quarter									
+35	1.0	12	12	1/2	1/2	Chord	3/4	2	1	1/4	1.0	35	up	quarter									
+36	1.0	13	13	0	0	Chord	3/4	1	1	1/4	1.0	36	up	quarter									
+37	2.0	13	13	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+36	1.0	13	13	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+37	1.0	13	13	1/4	1/4	Chord	3/4	2	1	1/4	1.0	37	up	quarter									
+38	1.0	13	13	1/2	1/2	Chord	3/4	2	1	1/4	1.0	38	up	quarter									
+39	1.0	14	14	0	0	Chord	3/4	1	1	1/4	1.0	39	up	quarter									
+40	2.0	14	14	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+39	1.0	14	14	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+40	1.0	14	14	1/4	1/4	Chord	3/4	2	1	1/4	1.0	40	up	quarter									
+41	1.0	14	14	1/2	1/2	Chord	3/4	2	1	1/4	1.0	41	up	quarter									
+42	1.0	15	15	0	0	Chord	3/4	1	1	1/4	1.0	42	up	quarter									
+43	2.0	15	15	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+42	1.0	15	15	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+43	1.0	15	15	1/4	1/4	Chord	3/4	2	1	1/4	1.0	43	up	quarter									
+44	1.0	15	15	1/2	1/2	Chord	3/4	2	1	1/4	1.0	44	up	quarter									
+45	1.0	16	16	0	0	Chord	3/4	1	1	1/4	1.0	45	up	quarter									
+46	2.0	16	16	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+45	1.0	16	16	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+46	1.0	16	16	1/4	1/4	Chord	3/4	2	1	1/4	1.0	46	up	quarter									
+47	1.0	16	16	1/2	1/2	Chord	3/4	2	1	1/4	1.0	47	up	quarter									
+48	1.0	17	17	0	0	Chord	3/4	1	1	1/4	1.0	48	up	quarter									
+49	2.0	17	17	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+48	1.0	17	17	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+49	1.0	17	17	1/4	1/4	Chord	3/4	2	1	1/4	1.0	49	up	quarter									
+50	1.0	17	17	1/2	1/2	Chord	3/4	2	1	1/4	1.0	50	up	quarter									
+51	1.0	18	18	0	0	Chord	3/4	1	1	1/4	1.0	51	up	quarter									
+52	2.0	18	18	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+51	1.0	18	18	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+52	1.0	18	18	1/4	1/4	Chord	3/4	2	1	1/4	1.0	52	up	quarter									
+53	1.0	18	18	1/2	1/2	Chord	3/4	2	1	1/4	1.0	53	up	quarter									
+54	1.0	19	19	0	0	Chord	3/4	1	1	1/4	1.0	54	up	quarter									
+55	2.0	19	19	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+54	1.0	19	19	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+55	1.0	19	19	1/4	1/4	Chord	3/4	2	1	1/4	1.0	55	up	quarter									
+56	1.0	19	19	1/2	1/2	Chord	3/4	2	1	1/4	1.0	56	up	quarter									
+57	1.0	20	20	0	0	Chord	3/4	1	1	1/4	1.0	57	up	quarter									
+58	2.0	20	20	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+57	1.0	20	20	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+58	1.0	20	20	1/4	1/4	Chord	3/4	2	1	1/4	1.0	58	up	quarter									
+59	1.0	20	20	1/2	1/2	Chord	3/4	2	1	1/4	1.0	59	up	quarter									
+60	1.0	21	21	0	0	Chord	3/4	1	1	1/4	1.0	60	up	quarter									
+61	2.0	21	21	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+60	1.0	21	21	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+61	1.0	21	21	1/4	1/4	Chord	3/4	2	1	1/4	1.0	61	up	quarter									
+62	1.0	21	21	1/2	1/2	Chord	3/4	2	1	1/4	1.0	62	up	quarter									
+63	1.0	22	22	0	0	Chord	3/4	1	1	1/4	1.0	63	up	quarter									
+64	2.0	22	22	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+63	1.0	22	22	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+64	1.0	22	22	1/4	1/4	Chord	3/4	2	1	1/4	1.0	64	up	quarter									
+65	1.0	22	22	1/2	1/2	Chord	3/4	2	1	1/4	1.0	65	up	quarter									
+66	1.0	23	23	0	0	Chord	3/4	1	1	1/4	1.0	66	up	quarter									
+67	2.0	23	23	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+66	1.0	23	23	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+67	1.0	23	23	1/4	1/4	Chord	3/4	2	1	1/4	1.0	67	up	quarter									
+68	1.0	23	23	1/2	1/2	Chord	3/4	2	1	1/4	1.0	68	up	quarter									
+69	1.0	24	24	0	0	Chord	3/4	1	1	1/4	1.0	69	up	quarter									
+70	2.0	24	24	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+69	1.0	24	24	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+70	1.0	24	24	1/4	1/4	Chord	3/4	2	1	1/4	1.0	70	up	quarter									
+71	1.0	24	24	1/2	1/2	Chord	3/4	2	1	1/4	1.0	71	up	quarter									
+72	1.0	25	25	0	0	Chord	3/4	1	1	1/4	1.0	72	up	quarter									
+73	2.0	25	25	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+72	1.0	25	25	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+73	1.0	25	25	1/4	1/4	Chord	3/4	2	1	1/4	1.0	73	up	quarter									
+74	1.0	25	25	1/2	1/2	Chord	3/4	2	1	1/4	1.0	74	up	quarter									
+75	1.0	26	26	0	0	Chord	3/4	1	1	1/4	1.0	75	up	quarter									
+76	2.0	26	26	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+75	1.0	26	26	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+76	1.0	26	26	1/4	1/4	Chord	3/4	2	1	1/4	1.0	76	up	quarter									
+77	1.0	26	26	1/2	1/2	Chord	3/4	2	1	1/4	1.0	77	up	quarter									
+78	1.0	27	27	0	0	Chord	3/4	1	1	1/4	1.0	78	up	quarter									
+79	2.0	27	27	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+78	1.0	27	27	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+79	1.0	27	27	1/4	1/4	Chord	3/4	2	1	1/4	1.0	79	up	quarter									
+80	1.0	27	27	1/2	1/2	Chord	3/4	2	1	1/4	1.0	80	up	quarter									
+81	1.0	28	28	0	0	Chord	3/4	1	1	1/4	1.0	81	up	quarter									
+82	2.0	28	28	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+81	1.0	28	28	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+82	1.0	28	28	1/4	1/4	Chord	3/4	2	1	1/4	1.0	82	up	quarter									
+83	1.0	28	28	1/2	1/2	Chord	3/4	2	1	1/4	1.0	83	up	quarter									
+84	1.0	29	29	0	0	Chord	3/4	1	1	1/4	1.0	84	up	quarter									
+85	2.0	29	29	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+84	1.0	29	29	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+85	1.0	29	29	1/4	1/4	Chord	3/4	2	1	1/4	1.0	85	up	quarter									
+86	1.0	29	29	1/2	1/2	Chord	3/4	2	1	1/4	1.0	86	up	quarter									
+87	1.0	30	30	0	0	Chord	3/4	1	1	1/4	1.0	87	up	quarter									
+88	2.0	30	30	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+87	1.0	30	30	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+88	1.0	30	30	1/4	1/4	Chord	3/4	2	1	1/4	1.0	88	up	quarter									
+89	1.0	30	30	1/2	1/2	Chord	3/4	2	1	1/4	1.0	89	up	quarter									
+90	1.0	31	31	0	0	Chord	3/4	1	1	1/4	1.0	90	up	quarter									
+91	2.0	31	31	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+90	1.0	31	31	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+91	1.0	31	31	1/4	1/4	Chord	3/4	2	1	1/4	1.0	91	up	quarter									
+92	1.0	31	31	1/2	1/2	Chord	3/4	2	1	1/4	1.0	92	up	quarter									
+93	1.0	32	32	0	0	Chord	3/4	1	1	1/4	1.0	93	up	quarter									
+94	2.0	32	32	1/4	1/4	Rest	3/4	1	1	1/2	1.0												half
+93	1.0	32	32	0	0	Rest	3/4	2	1	1/4	1.0												quarter
+94	1.0	32	32	1/4	1/4	Chord	3/4	2	1	1/4	1.0	94	up	quarter									
+95	1.0	32	32	1/2	1/2	Chord	3/4	2	1	1/4	1.0	95	up	quarter									

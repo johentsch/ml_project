@@ -1,0 +1,260 @@
+quarterbeats	duration_qb	mc	mn	mc_onset	mn_onset	event	timesig	staff	voice	duration	scalar	volta	chord_id	Beam	Chord/Lyrics/family	Chord/Lyrics/no	Chord/Lyrics/offset	Chord/Lyrics/offset:x	Chord/Lyrics/offset:y	Chord/Lyrics/syllabic	Chord/Lyrics/text	Chord/Lyrics/text/font	Chord/Lyrics/text/font:face	Chord/Lyrics/ticks	Chord/Lyrics/ticks_f	Chord/Spanner/Slur	Chord/Spanner/Slur/SlurSegment/o1	Chord/Spanner/Slur/SlurSegment/o1:x	Chord/Spanner/Slur/SlurSegment/o1:y	Chord/Spanner/Slur/SlurSegment/o2	Chord/Spanner/Slur/SlurSegment/o2:x	Chord/Spanner/Slur/SlurSegment/o2:y	Chord/Spanner/Slur/SlurSegment/o3	Chord/Spanner/Slur/SlurSegment/o3:x	Chord/Spanner/Slur/SlurSegment/o3:y	Chord/Spanner/Slur/SlurSegment/o4	Chord/Spanner/Slur/SlurSegment/o4:x	Chord/Spanner/Slur/SlurSegment/o4:y	Chord/Spanner/Slur/SlurSegment:no	Chord/Spanner/next/location/fractions	Chord/Spanner/prev/location/fractions	Chord/Spanner:type	Chord/dots	Chord/durationType	Chord/small	Clef/concertClefType	Clef/transposingClefType	Harmony/base	Harmony/extension	Harmony/name	Harmony/offset	Harmony/offset:x	Harmony/offset:y	Harmony/root	Rest/dots	Rest/duration	Rest/durationType	Rest/offset	Rest/offset:x	Rest/offset:y	Rest/small	Rest/visible	Spanner/HairPin/Segment/off2	Spanner/HairPin/Segment/off2:x	Spanner/HairPin/Segment/off2:y	Spanner/HairPin/Segment/offset	Spanner/HairPin/Segment/offset:x	Spanner/HairPin/Segment/offset:y	Spanner/HairPin/Segment/subtype	Spanner/HairPin/subtype	Spanner/next/location/fractions	Spanner/next/location/measures	Spanner/prev/location/fractions	Spanner/prev/location/measures	Spanner:type	Symbol/name	Symbol/offset	Symbol/offset:x	Symbol/offset:y	location/fractions
+0	0.0	1	1	0	0	Clef	4/4	1	1	0																																				G	G																																	
+0	0.25	1	1	0	0	Rest	4/4	1	1	1/16	1																																														16th																							
+1/4	0.0	1	1	1/16	1/16	Beam	4/4	1	1	0				∅																																																																		
+1/4	0.25	1	1	1/16	1/16	Chord	4/4	1	1	1/16	1		0																															16th																																				
+1/2	0.25	1	1	1/8	1/8	Chord	4/4	1	1	1/16	1		1																															16th																																				
+3/4	0.25	1	1	3/16	3/16	Chord	4/4	1	1	1/16	1		2																															16th																																				
+1	0.25	1	1	1/4	1/4	Chord	4/4	1	1	1/16	1		3																															16th																																				
+5/4	0.25	1	1	5/16	5/16	Chord	4/4	1	1	1/16	1		4																															16th																																				
+3/2	0.25	1	1	3/8	3/8	Rest	4/4	1	1	1/16	1																																														16th																							
+7/4	0.25	1	1	7/16	7/16	Chord	4/4	1	1	1/16	1		5																															16th																																				
+2	0.0	1	1	1/2	1/2	Beam	4/4	1	1	0				∅																																																																		
+2	0.25	1	1	1/2	1/2	Chord	4/4	1	1	1/16	1		6																															16th																																				
+9/4	0.25	1	1	9/16	9/16	Chord	4/4	1	1	1/16	1		7																															16th																																				
+5/2	0.25	1	1	5/8	5/8	Chord	4/4	1	1	1/16	1		8																															16th																																				
+11/4	0.25	1	1	11/16	11/16	Chord	4/4	1	1	1/16	1		9																															16th																																				
+3	0.25	1	1	3/4	3/4	Rest	4/4	1	1	1/16	1																																														16th																							
+13/4	0.0	1	1	13/16	13/16	Beam	4/4	1	1	0				∅																																																																		
+13/4	0.25	1	1	13/16	13/16	Chord	4/4	1	1	1/16	1		10																															16th																																				
+7/2	0.25	1	1	7/8	7/8	Chord	4/4	1	1	1/16	1		11																															16th																																				
+15/4	0.25	1	1	15/16	15/16	Chord	4/4	1	1	1/16	1		12																															16th																																				
+4	0.25	1	1	1	1	Chord	4/4	1	1	1/16	1		13																															16th																																				
+17/4	0.25	1	1	17/16	17/16	Chord	4/4	1	1	1/16	1		14																															16th																																				
+9/2	0.25	1	1	9/8	9/8	Rest	4/4	1	1	1/16	1																																														16th																							
+19/4	0.0	1	1	19/16	19/16	Beam	4/4	1	1	0				∅																																																																		
+19/4	0.25	1	1	19/16	19/16	Chord	4/4	1	1	1/16	1		15																															16th																																				
+5	0.25	1	1	5/4	5/4	Chord	4/4	1	1	1/16	1		16																															16th																																				
+21/4	0.25	1	1	21/16	21/16	Chord	4/4	1	1	1/16	1		17																															16th																																				
+11/2	0.25	1	1	11/8	11/8	Chord	4/4	1	1	1/16	1		18																															16th																																				
+23/4	0.25	1	1	23/16	23/16	Chord	4/4	1	1	1/16	1		19																															16th																																				
+6	0.25	2	2	0	0	Rest	4/4	1	1	1/16	1																																														16th	/	-0.845411	2																				
+25/4	0.0	2	2	1/16	1/16	Beam	4/4	1	1	0				∅																																																																		
+25/4	0.25	2	2	1/16	1/16	Chord	4/4	1	1	1/16	1		20																															16th																																				
+13/2	0.25	2	2	1/8	1/8	Chord	4/4	1	1	1/16	1		21																															16th																																				
+27/4	0.25	2	2	3/16	3/16	Chord	4/4	1	1	1/16	1		22																															16th																																				
+7	0.25	2	2	1/4	1/4	Chord	4/4	1	1	1/16	1		23																															16th																																				
+29/4	0.25	2	2	5/16	5/16	Chord	4/4	1	1	1/16	1		24																															16th																																				
+15/2	0.25	2	2	3/8	3/8	Rest	4/4	1	1	1/16	1																																														16th																							
+31/4	0.25	2	2	7/16	7/16	Chord	4/4	1	1	1/16	1		25																															16th																																				
+8	0.0	2	2	1/2	1/2	Beam	4/4	1	1	0				∅																																																																		
+8	0.25	2	2	1/2	1/2	Chord	4/4	1	1	1/16	1		26																															16th																																				
+33/4	0.25	2	2	9/16	9/16	Chord	4/4	1	1	1/16	1		27																															16th																																				
+17/2	0.25	2	2	5/8	5/8	Chord	4/4	1	1	1/16	1		28																															16th																																				
+35/4	0.25	2	2	11/16	11/16	Chord	4/4	1	1	1/16	1		29																															16th																																				
+9	0.25	2	2	3/4	3/4	Rest	4/4	1	1	1/16	1																																														16th																							
+37/4	0.0	2	2	13/16	13/16	Beam	4/4	1	1	0				∅																																																																		
+37/4	0.25	2	2	13/16	13/16	Chord	4/4	1	1	1/16	1		30																															16th																																				
+19/2	0.25	2	2	7/8	7/8	Chord	4/4	1	1	1/16	1		31																															16th																																				
+39/4	0.25	2	2	15/16	15/16	Chord	4/4	1	1	1/16	1		32																															16th																																				
+10	0.25	2	2	1	1	Chord	4/4	1	1	1/16	1		33																															16th																																				
+41/4	0.25	2	2	17/16	17/16	Chord	4/4	1	1	1/16	1		34																															16th																																				
+21/2	0.25	2	2	9/8	9/8	Rest	4/4	1	1	1/16	1																																														16th																							
+43/4	0.0	2	2	19/16	19/16	Beam	4/4	1	1	0				∅																																																																		
+43/4	0.25	2	2	19/16	19/16	Chord	4/4	1	1	1/16	1		35																															16th																																				
+11	0.25	2	2	5/4	5/4	Chord	4/4	1	1	1/16	1		36																															16th																																				
+45/4	0.25	2	2	21/16	21/16	Chord	4/4	1	1	1/16	1		37																															16th																																				
+23/2	0.25	2	2	11/8	11/8	Chord	4/4	1	1	1/16	1		38																															16th																																				
+47/4	0.25	2	2	23/16	23/16	Chord	4/4	1	1	1/16	1		39																															16th																																				
+12	0.0	3	3	0	0	Harmony	4/4	1	1	0																																							1					15																										
+12	0.0	3	3	0	0	Spanner	4/4	1	1	0																																																					/	-13.5591	0	/	0	44.9886	0	0		1			HairPin					
+12	1.5	3	3	0	0	Chord	4/4	1	1	3/8	3/2		40		FreeSerif	1				begin	A	/	Times New Roman																				1	quarter																																				
+27/2	-0.5	3	3	3/8	3/8	location	4/4	1	1	-1/8																																																																						-1/8
+13	0.0	3	3	1/4	1/4	Harmony	4/4	1	1	0																																							64	7				17																										
+13	0.5	3	3	1/4	1/4	location	4/4	1	1	1/8																																																																						1/8
+27/2	0.0	3	3	3/8	3/8	Beam	4/4	1	1	0				∅																																																																		
+27/2	0.25	3	3	3/8	3/8	Chord	4/4	1	1	1/16	1		41		FreeSerif	1				end	ve	/	Times New Roman																					16th																																				
+55/4	0.25	3	3	7/16	7/16	Chord	4/4	1	1	1/16	1		42		FreeSerif	1				begin	Ma	/	Times New Roman																					16th																																				
+14	0.0	3	3	1/2	1/2	Harmony	4/4	1	1	0																																						16	1		/	0	0	15																										
+14	0.0	3	3	1/2	1/2	Spanner	4/4	1	1	0																																																					/	-4.7997	0	/	0	45.0641	0	1	-1/2	1			HairPin					
+14	1.0	3	3	1/2	1/2	Chord	4/4	1	1	1/4	1		43		FreeSerif	1	/	0	0	end	ri	/	Times New Roman	840	7/16	∅	/	0.47997	2.27986	/	-3.27971e-18	3.71977	/	-1.19992	4.67971	/	2.75983	5.63964	0	1/4		Slur		quarter																																				
+15	0.0	3	3	3/4	3/4	Harmony	4/4	1	1	0																																							64	7	/	0	0	16																										
+15	0.0	3	3	3/4	3/4	Beam	4/4	1	1	0				∅																																																																		
+15	0.75	3	3	3/4	3/4	Chord	4/4	1	1	3/16	3/2		44																												-1/4	Slur	1	eighth																																				
+63/4	0.25	3	3	15/16	15/16	Chord	4/4	1	1	1/16	1		45																															16th																																				
+16	0.0	4	4	0	0	Harmony	4/4	1	1	0																																							16	m				18																										
+16	0.0	4	4	0	0	Spanner	4/4	1	1	0																																																																-1	HairPin					
+16	0.0	4	4	0	0	Spanner	4/4	1	1	0																																																															1/2	-1	HairPin					
+16	1.0	4	4	0	0	Chord	4/4	1	1	1/4	1		46		FreeSerif	1					a	/	Times New Roman																					quarter																																				
+17	1.0	4	4	1/4	1/4	Rest	4/4	1	1	1/4	1																																														quarter																							
+18	0.0	4	4	1/2	1/2	Harmony	4/4	1	1	0																																							16	m				17																										
+18	1.0	4	4	1/2	1/2	Chord	4/4	1	1	1/4	1		47		FreeSerif	1				end	Mon	/	Times New Roman	600	5/16		/	0.47997	-5.03968	/	0.239985	-4.43972	/	-0.47997	-5.27967	/	13.4392	-3.95975	0	1/4		Slur		quarter																																				
+19	0.0	4	4	3/4	3/4	Beam	4/4	1	1	0				∅																																																																		
+19	0.25	4	4	3/4	3/4	Chord	4/4	1	1	1/16	1		48																							/	2.15986	0.839947	0	1/16	-1/4	Slur		16th	1																																			
+77/4	0.25	4	4	13/16	13/16	Chord	4/4	1	1	1/16	1		49																												-1/16	Slur		16th	1																																			
+39/2	0.0	4	4	7/8	7/8	Harmony	4/4	1	1	0																																							64	7				16																										
+39/2	0.25	4	4	7/8	7/8	Chord	4/4	1	1	1/16	1		50		FreeSerif	1					coeur	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+79/4	0.25	4	4	15/16	15/16	Chord	4/4	1	1	1/16	1		51																												-1/16	Slur		16th																																				
+20	0.25	4	4	1	1	Chord	4/4	1	1	1/16	1		52		FreeSerif	1					s'ouvre	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+81/4	0.25	4	4	17/16	17/16	Chord	4/4	1	1	1/16	1		53		FreeSerif	1					à	/	Times New Roman																		-1/16	Slur		16th																																				
+41/2	0.5	4	4	9/8	9/8	Rest	4/4	1	1	1/8	1																																														eighth	/	29.9981	15	1	0																		
+21	0.0	5	5	0	0	Harmony	4/4	1	1	0																																							1					15																										
+21	1.0	5	5	0	0	Chord	4/4	1	1	1/4	1		54		FreeSerif	1					toi.	/	Times New Roman																					quarter																																				
+22	0.5	5	5	1/4	1/4	Rest	4/4	1	1	1/8	1																																														eighth																							
+45/2	0.5	5	5	3/8	3/8	Chord	4/4	1	1	1/8	1		55		FreeSerif	1					Je	/	Times New Roman																					eighth																																				
+23	0.0	5	5	1/2	1/2	Harmony	4/4	1	1	0																																							16	m				18																										
+23	0.0	5	5	1/2	1/2	Beam	4/4	1	1	0				∅																																																																		
+23	0.75	5	5	1/2	1/2	Chord	4/4	1	1	3/16	3/2		56		FreeSerif	1					t'en	/	Times New Roman																				1	eighth																																				
+95/4	0.0	5	5	11/16	11/16	Spanner	4/4	1	1	0																																																					/	0	0	/	0	44.3886	0	0	-11/16	1			HairPin					
+95/4	0.125	5	5	11/16	11/16	Chord	4/4	1	1	1/32	1		57		FreeSerif	1				end	sup	/	Times New Roman	60	1/32																			32nd																																				
+191/8	0.125	5	5	23/32	23/32	Chord	4/4	1	1	1/32	1		58																															32nd																																				
+24	0.0	5	5	3/4	3/4	Beam	4/4	1	1	0				∅																																																																		
+24	0.25	5	5	3/4	3/4	Chord	4/4	1	1	1/16	1		59		FreeSerif	1					plie	/	Times New Roman																					16th																																				
+97/4	0.25	5	5	13/16	13/16	Chord	4/4	1	1	1/16	1		60		FreeSerif	1				begin	é	/	Times New Roman																					16th																																				
+49/2	0.25	5	5	7/8	7/8	Chord	4/4	1	1	1/16	1		61		FreeSerif	1				middle	cou	/	Times New Roman																					16th																																				
+99/4	0.25	5	5	15/16	15/16	Chord	4/4	1	1	1/16	1		62		FreeSerif	1				end	te	/	Times New Roman																					16th																																				
+25	0.0	6	6	0	0	Harmony	4/4	1	1	0																																							192	sus4	/	0	0	20																										
+25	0.0	6	6	0	0	Spanner	4/4	1	1	0																																																															11/16	-1	HairPin					
+25	0.0	6	6	0	0	Spanner	4/4	1	1	0																																																					/	-47.877	0	/	0	66.3606	0	1		1			HairPin					
+25	1.0	6	6	0	0	Chord	4/4	1	1	1/4	1		63		FreeSerif	1				middle	ma	/	Times New Roman																					quarter																																				
+26	0.0	6	6	1/4	1/4	Harmony	4/4	1	1	0																																							1		/	0	0	20																										
+26	0.0	6	6	1/4	1/4	Beam	4/4	1	1	0				∅																																																																		
+26	0.75	6	6	1/4	1/4	Chord	4/4	1	1	3/16	3/2		64		FreeSerif	1				end	voix,	/	Times New Roman																				1	eighth																																				
+107/4	0.25	6	6	7/16	7/16	Chord	4/4	1	1	1/16	1		65		FreeSerif	1				begin	et	/	Times New Roman																					16th																																				
+27	0.0	6	6	1/2	1/2	Harmony	4/4	1	1	0																																							64	7	/	0	0	12																										
+27	0.75	6	6	1/2	1/2	Chord	4/4	1	1	3/16	3/2		66		FreeSerif	1				end	si	/	Times New Roman																				1	eighth																																				
+111/4	0.25	6	6	11/16	11/16	Chord	4/4	1	1	1/16	1		67		FreeSerif	1				begin	j'ou	/	Times New Roman																					16th																																				
+28	0.0	6	6	3/4	3/4	Beam	4/4	1	1	0				∅																																																																		
+28	0.25	6	6	3/4	3/4	Chord	4/4	1	1	1/16	1		68		FreeSerif	1				end	blie	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+113/4	0.25	6	6	13/16	13/16	Chord	4/4	1	1	1/16	1		69																												-1/16	Slur		16th																																				
+57/2	0.25	6	6	7/8	7/8	Chord	4/4	1	1	1/16	1		70		FreeSerif	1					les	/	Times New Roman																					16th																																				
+115/4	0.25	6	6	15/16	15/16	Chord	4/4	1	1	1/16	1		71		FreeSerif	1					mots	/	Times New Roman	120	1/16																			16th																																				
+29	0.25	6	6	1	1	Chord	4/4	1	1	1/16	1		72																															16th																																				
+117/4	0.25	6	6	17/16	17/16	Chord	4/4	1	1	1/16	1		73		FreeSerif	1				begin	d'autre	/	Times New Roman																					16th																																				
+59/2	0.5	6	6	9/8	9/8	Rest	4/4	1	1	1/8	1																																														eighth	/	29.9981	13	1	0																		
+30	0.0	7	7	0	0	Harmony	4/4	1	1	0																																							16	m				18																										
+30	0.0	7	7	0	0	Spanner	4/4	1	1	0																																																																-1	HairPin					
+30	1.5	7	7	0	0	Chord	4/4	1	1	3/8	3/2		74		FreeSerif	1				end	fois.	/	Times New Roman																				1	quarter																																				
+63/2	0.0	7	7	3/8	3/8	Spanner	4/4	1	1	0																																																					/	-4.07974	0	/	0	65.1028	0	0	-3/8	1			HairPin					
+63/2	0.0	7	7	3/8	3/8	Beam	4/4	1	1	0				∅																																																																		
+63/2	0.25	7	7	3/8	3/8	Chord	4/4	1	1	1/16	1		75		FreeSerif	1					Vier	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+127/4	0.25	7	7	7/16	7/16	Chord	4/4	1	1	1/16	1		76																												-1/16	Slur		16th																																				
+32	0.0	7	7	1/2	1/2	Harmony	4/4	1	1	0																																							1					16																										
+32	0.75	7	7	1/2	1/2	Chord	4/4	1	1	3/16	3/2		77		FreeSerif	1					ge	/	Times New Roman																				1	eighth																																				
+131/4	0.25	7	7	11/16	11/16	Chord	4/4	1	1	1/16	1		78		FreeSerif	1	/	0	0	begin	Ma	/	Times New Roman																					16th																																				
+33	0.0	7	7	3/4	3/4	Beam	4/4	1	1	0				∅																																																																		
+33	0.25	7	7	3/4	3/4	Chord	4/4	1	1	1/16	1		79		FreeSerif	1	/	0	0	end	rie	/	Times New Roman	120	1/16																			16th																																				
+133/4	0.0	7	7	13/16	13/16	Harmony	4/4	1	1	0																																							64	7	/	0	0	18																										
+133/4	0.25	7	7	13/16	13/16	Chord	4/4	1	1	1/16	1		80																															16th																																				
+67/2	0.25	7	7	7/8	7/8	Chord	4/4	1	1	1/16	1		81		FreeSerif	1				begin	par	/	Times New Roman																					16th																																				
+135/4	0.25	7	7	15/16	15/16	Chord	4/4	1	1	1/16	1		82		FreeSerif	1				end	don	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+34	0.25	7	7	1	1	Chord	4/4	1	1	1/16	1		83																												-1/16	Slur		16th																																				
+137/4	0.25	7	7	17/16	17/16	Chord	4/4	1	1	1/16	1		84		FreeSerif	1				begin	ne	/	Times New Roman																					16th																																				
+69/2	0.5	7	7	9/8	9/8	Rest	4/4	1	1	1/8	1																																														eighth	/	5.15967	2	1	0																		
+35	0.0	8	8	0	0	Harmony	4/4	1	1	0																																						17	1					16																										
+35	0.0	8	8	0	0	Spanner	4/4	1	1	0																																																															3/8	-1	HairPin					
+35	0.0	8	8	0	0	Spanner	4/4	1	1	0																																																					/	-45.5971	0	/	0	86.3239	0	1		1			HairPin					
+35	1.0	8	8	0	0	Chord	4/4	1	1	1/4	1		85		FreeSerif	1				end	moi	/	Times New Roman	480	1/4	∅														1/4		Slur		quarter																																				
+36	0.0	8	8	1/4	1/4	Beam	4/4	1	1	0				∅																																																																		
+36	0.25	8	8	1/4	1/4	Chord	4/4	1	1	1/16	1		86																												-1/4	Slur		16th																																				
+145/4	0.0	8	8	5/16	5/16	Harmony	4/4	1	1	0																																							64	7	/	0	0	17																										
+145/4	0.25	8	8	5/16	5/16	Chord	4/4	1	1	1/16	1		87		FreeSerif	1				begin	Par	/	Times New Roman	120	1/16																			16th																																				
+73/2	0.25	8	8	3/8	3/8	Chord	4/4	1	1	1/16	1		88		FreeSerif					middle	ne	/	Times New Roman																					16th																																				
+147/4	0.25	8	8	7/16	7/16	Chord	4/4	1	1	1/16	1		89		FreeSerif	1				end	don	/	Times New Roman	240	1/8																			16th																																				
+37	0.25	8	8	1/2	1/2	Chord	4/4	1	1	1/16	1		90																															16th	1																																			
+149/4	0.25	8	8	9/16	9/16	Chord	4/4	1	1	1/16	1		91																															16th	1																																			
+75/2	0.25	8	8	5/8	5/8	Chord	4/4	1	1	1/16	1		92		FreeSerif	1					ne	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+151/4	0.25	8	8	11/16	11/16	Chord	4/4	1	1	1/16	1		93																												-1/16	Slur		16th																																				
+38	0.0	8	8	3/4	3/4	Harmony	4/4	1	1	0																																							1					16																										
+38	1.0	8	8	3/4	3/4	Chord	4/4	1	1	1/4	1		94		FreeSerif	1	/	0	0		moi.	/	Times New Roman																					quarter																																				
+39	0.5	8	8	1	1	Rest	4/4	1	1	1/8	1																																														eighth																							
+79/2	0.5	8	8	9/8	9/8	Chord	4/4	1	1	1/8	1		95		FreeSerif	1					Toi	/	Times New Roman																					eighth																																				
+40	0.0	9	9	0	0	Harmony	4/4	1	1	0																																							64	7				16																										
+40	0.0	9	9	0	0	Spanner	4/4	1	1	0																																																																-1	HairPin					
+40	0.0	9	9	0	0	Beam	4/4	1	1	0				∅																																																																		
+40	0.75	9	9	0	0	Chord	4/4	1	1	3/16	3/2		96		FreeSerif	1					qui	/	Times New Roman																				1	eighth																																				
+163/4	0.25	9	9	3/16	3/16	Chord	4/4	1	1	1/16	1		97		FreeSerif	1				begin	tou	/	Times New Roman																					16th																																				
+41	0.375	9	9	1/4	1/4	Chord	4/4	1	1	3/32	3/2		98		FreeSerif	1				end	jours	/	Times New Roman																				1	16th																																				
+331/8	0.125	9	9	11/32	11/32	Chord	4/4	1	1	1/32	1		99		FreeSerif	1					dans	/	Times New Roman																					32nd																																				
+83/2	0.375	9	9	3/8	3/8	Chord	4/4	1	1	3/32	3/2		100		FreeSerif	1					mon	/	Times New Roman																				1	16th																																				
+335/8	0.125	9	9	15/32	15/32	Chord	4/4	1	1	1/32	1		101		FreeSerif	1				begin	en	/	Times New Roman																					32nd																																				
+42	0.0	9	9	1/2	1/2	Harmony	4/4	1	1	0																																							1					15																										
+42	0.0	9	9	1/2	1/2	Beam	4/4	1	1	0				∅																																																																		
+42	0.375	9	9	1/2	1/2	Chord	4/4	1	1	3/32	3/2		102		FreeSerif	1				end	fan	/	Times New Roman	180	3/32																		1	16th																																				
+339/8	0.125	9	9	19/32	19/32	Chord	4/4	1	1	1/32	1		103																															32nd																																				
+85/2	0.5	9	9	5/8	5/8	Chord	4/4	1	1	1/8	1		104		FreeSerif	1					ce,	/	Times New Roman																					eighth																																				
+43	0.5	9	9	3/4	3/4	Rest	4/4	1	1	1/8	1																																														eighth																							
+87/2	0.5	9	9	7/8	7/8	Chord	4/4	1	1	1/8	1		105		FreeSerif	1					Toi	/	Times New Roman																					eighth																																				
+44	0.0	10	10	0	0	Beam	4/4	1	1	0				∅																																																																		
+44	0.75	10	10	0	0	Chord	4/4	1	1	3/16	3/2		106		FreeSerif	1					qui	/	Times New Roman																				1	eighth																																				
+179/4	0.0	10	10	3/16	3/16	Harmony	4/4	1	1	0																																							64	7	/	0	0	16																										
+179/4	0.25	10	10	3/16	3/16	Chord	4/4	1	1	1/16	1		107		FreeSerif	1				begin	tou	/	Times New Roman																					16th																																				
+45	0.25	10	10	1/4	1/4	Chord	4/4	1	1	1/16	1		108		FreeSerif	1				end	jours	/	Times New Roman	120	1/16																			16th																																				
+181/4	0.25	10	10	5/16	5/16	Chord	4/4	1	1	1/16	1		109																															16th																																				
+91/2	0.25	10	10	3/8	3/8	Chord	4/4	1	1	1/16	1		110		FreeSerif	1	/	0	0		m'a	/	Times New Roman																					16th																																				
+183/4	0.25	10	10	7/16	7/16	Chord	4/4	1	1	1/16	1		111		FreeSerif	1					pro	/	Times New Roman	120	1/16																			16th																																				
+46	0.25	10	10	1/2	1/2	Chord	4/4	1	1	1/16	1		112																															16th																																				
+185/4	0.25	10	10	9/16	9/16	Chord	4/4	1	1	1/16	1		113		FreeSerif	1				begin	té	/	Times New Roman																					16th																																				
+93/2	0.0	10	10	5/8	5/8	Harmony	4/4	1	1	0																																							16	m				18																										
+93/2	1.0	10	10	5/8	5/8	Chord	4/4	1	1	1/4	1		114		FreeSerif	1				end	gé.	/	Times New Roman																					quarter																																				
+95/2	0.5	10	10	7/8	7/8	Rest	4/4	1	1	1/8	1																																														eighth																							
+48	0.5	10	10	1	1	Rest	4/4	1	1	1/8	1																																														eighth	/	27.657	54	1	0																		
+97/2	0.5	10	10	9/8	9/8	Chord	4/4	1	1	1/8	1		115		FreeSerif	1				begin	Sur	/	Times New Roman																					eighth																																				
+49	0.0	11	11	0	0	Harmony	4/4	1	1	0																																							1					16																										
+49	0.0	11	11	0	0	Spanner	4/4	1	1	0																																																					/	-22.0786	0	/	0	106.38	0	0		1			HairPin					
+49	0.0	11	11	0	0	Beam	4/4	1	1	0				∅																																																																		
+49	0.75	11	11	0	0	Chord	4/4	1	1	3/16	3/2		116		FreeSerif	1				end	mon	/	Times New Roman																				1	eighth																																				
+199/4	0.25	11	11	3/16	3/16	Chord	4/4	1	1	1/16	1		117		FreeSerif	1				begin	bon	/	Times New Roman																					16th																																				
+50	0.0	11	11	1/4	1/4	Harmony	4/4	1	1	0																																							1					18																										
+50	0.375	11	11	1/4	1/4	Chord	4/4	1	1	3/32	3/2		118		FreeSerif	1				end	heur,	/	Times New Roman																				1	16th																																				
+403/8	0.125	11	11	11/32	11/32	Chord	4/4	1	1	1/32	1		119		FreeSerif	1					sur	/	Times New Roman																					32nd																																				
+101/2	0.25	11	11	3/8	3/8	Chord	4/4	1	1	1/16	1		120		FreeSerif	1				end	ma	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+203/4	0.25	11	11	7/16	7/16	Chord	4/4	1	1	1/16	1		121																												-1/16	Slur		16th																																				
+51	0.0	11	11	1/2	1/2	Symbol	4/4	1	1	0																																																																		noSym	/	28.7569	-2.23879	
+51	0.0	11	11	1/2	1/2	Beam	4/4	1	1	0				∅																																																																		
+51	0.25	11	11	1/2	1/2	Chord	4/4	1	1	1/16	1		122		FreeSerif	1				begin	souf	/	Times New Roman																					16th																																				
+205/4	0.0	11	11	9/16	9/16	Harmony	4/4	1	1	0																																							16	m				17																										
+205/4	0.0	11	11	9/16	9/16	Spanner	4/4	1	1	0																																																					/	-13.1992	0	/	0	106.229	0	1	-9/16	1			HairPin					
+205/4	0.25	11	11	9/16	9/16	Chord	4/4	1	1	1/16	1		123		FreeSerif	1				end	fran	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+103/2	0.25	11	11	5/8	5/8	Chord	4/4	1	1	1/16	1		124																												-1/16	Slur		16th																																				
+207/4	0.5	11	11	11/16	11/16	Chord	4/4	1	1	1/8	1		125		FreeSerif	1					ce,	/	Times New Roman																					eighth																																				
+209/4	0.5	11	11	13/16	13/16	Rest	4/4	1	1	1/8	1																																														eighth	/	13.1643	56		0																		
+211/4	0.0	11	11	15/16	15/16	Symbol	4/4	1	1	0																																																																		noSym	/	43.5057	2.12945	
+211/4	0.25	11	11	15/16	15/16	Chord	4/4	1	1	1/16	1		126		FreeSerif	1				begin	Rei	/	Times New Roman																					16th																																				
+53	0.0	12	12	0	0	Spanner	4/4	1	1	0																																																																-1	HairPin					
+53	0.0	12	12	0	0	Spanner	4/4	1	1	0																																																															9/16	-1	HairPin					
+53	0.0	12	12	0	0	Spanner	4/4	1	1	0																																																					/	-29.8781	0	/	0	127.29	0	0		1			HairPin					
+53	0.0	12	12	0	0	Beam	4/4	1	1	0				∅																																																																		
+53	0.5	12	12	0	0	Chord	4/4	1	1	1/8	1		127		FreeSerif	1				end	ne	/	Times New Roman	240	1/8	∅														1/8		Slur		eighth	1																																			
+107/2	0.75	12	12	1/8	1/8	Chord	4/4	1	1	3/16	3/2		128																												-1/8	Slur	1	eighth																																				
+217/4	0.5	12	12	5/16	5/16	Chord	4/4	1	1	1/8	1		129		FreeSerif	1					des	/	Times New Roman																					eighth																																				
+219/4	0.25	12	12	7/16	7/16	Chord	4/4	1	1	1/16	1		130		FreeSerif	1					Cieux	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+55	0.0	12	12	1/2	1/2	Harmony	4/4	1	1	0																																							64	7	/	0	0	17																										
+55	0.0	12	12	1/2	1/2	Beam	4/4	1	1	0				∅																																																																		
+55	0.25	12	12	1/2	1/2	Chord	4/4	1	1	1/16	1		131																												-1/16	Slur		16th																																				
+221/4	0.25	12	12	9/16	9/16	Chord	4/4	1	1	1/16	1		132		FreeSerif	1				begin	bais	/	Times New Roman																					16th																																				
+111/2	0.0	12	12	5/8	5/8	Spanner	4/4	1	1	0																																																					/	-11.0393	0	/	0	127.228	0	1	-5/8	1			HairPin					
+111/2	0.25	12	12	5/8	5/8	Chord	4/4	1	1	1/16	1		133		FreeSerif	1				end	se	/	Times New Roman	120	1/16	∅														1/16		Slur		16th																																				
+223/4	0.25	12	12	11/16	11/16	Chord	4/4	1	1	1/16	1		134																												-1/16	Slur		16th																																				
+56	0.0	12	12	3/4	3/4	Beam	4/4	1	1	0				∅																																																																		
+56	0.25	12	12	3/4	3/4	Chord	4/4	1	1	1/16	1		135		FreeSerif	1				begin	les	/	Times New Roman																					16th																																				
+225/4	0.0	12	12	13/16	13/16	Harmony	4/4	1	1	0																																							1					16																										
+225/4	0.75	12	12	13/16	13/16	Chord	4/4	1	1	3/16	3/2		136		FreeSerif	1				end	yeux.	/	Times New Roman																				1	eighth																																				
+57	0.0	13	13	0	0	Harmony	4/4	1	1	0																																							1					15																										
+57	0.0	13	13	0	0	Spanner	4/4	1	1	0																																																																-1	HairPin					
+57	0.0	13	13	0	0	Spanner	4/4	1	1	0																																																															5/8	-1	HairPin					
+57	1.5	13	13	0	0	Chord	4/4	1	1	3/8	3/2		137		FreeSerif	1				begin	A	/	Times New Roman																				1	quarter																																				
+117/2	-0.75	13	13	3/8	3/8	location	4/4	1	1	-3/16																																																																						-3/16
+231/4	0.5	13	13	3/16	3/16	Rest	4/4	1	1	1/8	1																																														eighth	/	18.116	41	1	0																		
+233/4	-0.25	13	13	5/16	5/16	location	4/4	1	1	-1/16																																																																						-1/16
+58	0.0	13	13	1/4	1/4	Harmony	4/4	1	1	0																																							64	7				17																										
+58	0.5	13	13	1/4	1/4	location	4/4	1	1	1/8																																																																						1/8
+117/2	3.0	13	13	3/8	3/8	Rest	4/4	1	1	3/4	3/2																																												1	5/8	half																							
+123/2	-2.25	13	13	9/8	9/8	location	4/4	1	1	-9/16																																																																						-9/16
+237/4	0.0	13	13	9/16	9/16	Spanner	4/4	1	1	0																																																					/	0	0	/	0	127.694	0	0	-7/16	1			HairPin					
+237/4	0.25	13	13	9/16	9/16	Chord	4/4	1	1	1/16	1		138		FreeSerif	1				begin	Ma	/	Times New Roman																					16th																																				
+119/2	0.0	13	13	5/8	5/8	Harmony	4/4	1	1	0																																						16	1					15																										
+119/2	1.0	13	13	5/8	5/8	Chord	4/4	1	1	1/4	1		139		FreeSerif	1	/	0	0	end	ri	/	Times New Roman	840	7/16	∅	/	0.359977	2.63983	/	0.47997	4.55971	/	-0.599962	5.51965	/	6.83957	5.63964	0	1/4		Slur		quarter																																				
+121/2	0.0	13	13	7/8	7/8	Harmony	4/4	1	1	0																																							64	7	/	0	0	16																										
+121/2	0.0	13	13	7/8	7/8	Beam	4/4	1	1	0				∅																																																																		
+121/2	0.75	13	13	7/8	7/8	Chord	4/4	1	1	3/16	3/2		140																												-1/4	Slur	1	eighth																																				
+245/4	0.0	13	13	17/16	17/16	Spanner	4/4	1	1	0																																																					/	4.7997	0	/	0	127.632	0	1	-15/16	1			HairPin					
+245/4	0.25	13	13	17/16	17/16	Chord	4/4	1	1	1/16	1		141																															16th																																				
+	0.0	14	14	0	0	Harmony	4/4	1	1	0		1																																					1					15																										
+	0.0	14	14	0	0	Spanner	4/4	1	1	0		1																																																													7/16	-1	HairPin					
+	0.0	14	14	0	0	Spanner	4/4	1	1	0		1																																																													15/16	-1	HairPin					
+	4.0	14	14	0	0	Chord	4/4	1	1	1	1	1	142		FreeSerif	1					a.	/	Times New Roman																					whole																																				
+61	0.0	15	15	0	0	Harmony	4/4	1	1	0		2																																					1					15																										
+61	0.0	15	15	0	0	Spanner	4/4	1	1	0		2																																																			/	0	0	/	0	128.232	0	1	1/1				HairPin					
+61	4.0	15	15	0	0	Chord	4/4	1	1	1	1	2	143		FreeSerif	1					a.	/	Times New Roman																					whole																																				
+65	0.0	15	15	1	1	Spanner	4/4	1	1	0		2																																																													-1/1		HairPin					

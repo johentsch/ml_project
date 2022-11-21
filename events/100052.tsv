@@ -1,0 +1,21 @@
+quarterbeats	duration_qb	mc	mn	mc_onset	mn_onset	event	timesig	staff	voice	duration	scalar	chord_id	Beam	Chord/durationType	Clef/concertClefType	Clef/transposingClefType
+0	0.0	1	1	0	0	Clef	4/4	1	1	0					F	F
+0	1.0	1	1	0	0	Chord	4/4	1	1	1/4	1.0	0		quarter		
+1	0.0	1	1	1/4	1/4	Beam	4/4	1	1	0			∅			
+1	0.5	1	1	1/4	1/4	Chord	4/4	1	1	1/8	1.0	1		eighth		
+3/2	0.5	1	1	3/8	3/8	Chord	4/4	1	1	1/8	1.0	2		eighth		
+2	0.0	1	1	1/2	1/2	Beam	4/4	1	1	0			∅			
+2	0.5	1	1	1/2	1/2	Chord	4/4	1	1	1/8	1.0	3		eighth		
+5/2	0.5	1	1	5/8	5/8	Chord	4/4	1	1	1/8	1.0	4		eighth		
+3	0.5	1	1	3/4	3/4	Chord	4/4	1	1	1/8	1.0	5		eighth		
+7/2	0.5	1	1	7/8	7/8	Chord	4/4	1	1	1/8	1.0	6		eighth		
+4	1.0	2	2	0	0	Chord	4/4	1	1	1/4	1.0	7		quarter		
+5	0.0	2	2	1/4	1/4	Beam	4/4	1	1	0			∅			
+5	0.5	2	2	1/4	1/4	Chord	4/4	1	1	1/8	1.0	8		eighth		
+11/2	0.5	2	2	3/8	3/8	Chord	4/4	1	1	1/8	1.0	9		eighth		
+6	0.0	2	2	1/2	1/2	Beam	4/4	1	1	0			∅			
+6	0.5	2	2	1/2	1/2	Chord	4/4	1	1	1/8	1.0	10		eighth		
+13/2	0.5	2	2	5/8	5/8	Chord	4/4	1	1	1/8	1.0	11		eighth		
+7	0.5	2	2	3/4	3/4	Chord	4/4	1	1	1/8	1.0	12		eighth		
+15/2	0.5	2	2	7/8	7/8	Chord	4/4	1	1	1/8	1.0	13		eighth		
+8	4.0	3	3	0	0	Chord	4/4	1	1	1	1.0	14		whole		
